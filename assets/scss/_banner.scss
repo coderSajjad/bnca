@@ -1,0 +1,52 @@
+.banner-img-area{
+    .banner-main-img {
+        margin-top: 17px;
+        margin-left: 40px;
+        position: absolute;
+        z-index: 5;
+    }
+
+    .banner-bg-1 {
+        z-index: 3;
+    }
+
+    .banner-bg-2 {
+        z-index: 1;
+        position: absolute;
+        bottom: -82px;
+        left: 115px;
+    }
+    
+}
+
+.banner-text-area {
+    margin-left: 155px;
+
+    .banner-title {
+        width: 400px;
+        padding-top: 150px;
+        padding-bottom: 10px;
+        font-size: 36px;
+        line-height: 42px;
+        color: #171D24;
+    }
+}
+
+ .btn-area{
+     i{
+        background-color: $primary;
+        border-radius: 50%;
+        font-size: 20px;
+        padding: 14px 14px;
+        color: #FFFFFF;
+     }
+
+     a {
+        font-family: $poppins;
+        color: $primary;
+        margin-left: 15px;
+        font-weight: 500;
+        font-size: 16px;
+        text-transform: uppercase;
+    }
+ }

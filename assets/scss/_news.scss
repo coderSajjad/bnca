@@ -1,0 +1,36 @@
+.news-area{
+    width: 100%;
+      background: #F5F7FA;
+   .news-wrapper{
+      background: #FFFFFF;
+       box-shadow: 0px 0.5px 1px rgba(51, 77, 114, 0.1), 0px 1.6px 3.6px rgba(51, 77, 114, 0.15);
+       border-radius: 10px;
+    }
+
+    .news-img{
+        padding: 10px;
+    }
+}
+
+.news-text-area{
+    padding: 20px 24px;
+    .news-title{
+  padding-bottom: 10px;
+font-weight: 600;
+font-size: 24px;
+line-height: 30px;
+color: #171D24;
+  }
+
+  .news-sub-title{
+      padding-bottom: 15px;
+    color: #6A737C;
+  }
+  .news-link{
+      font-family: $roboto;
+      color: $primary;
+      font-weight: 500;
+      font-size: 16px;
+      
+  }
+}

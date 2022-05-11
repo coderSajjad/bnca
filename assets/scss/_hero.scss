@@ -1,0 +1,30 @@
+.hero{
+    position: relative;
+    background-image: url(../images/hero-img/hero-bg.svg);
+}
+ 
+.hero{
+    h1{
+        padding-top: 58px;
+        padding-bottom: 73px;
+         width: 70%;
+         font-size: 60px;
+         line-height: 70px;
+         text-align: center;
+         color: #FFFFFF;
+         margin: 0 auto;
+         font-weight: 700;
+    }
+    .user{
+     margin-left: 37%;
+     margin-top: -28px;
+    }
+     .user-shape-1{
+         left: 35%;
+         top: 12%;
+     }
+     .user-shape-2{
+         right: 25%;
+         
+     }
+}

@@ -1,0 +1,24 @@
+ header{
+     position: relative;
+     z-index:999;
+ }
+ 
+ .navbar{
+     position: absolute;
+     width: 100%;
+ }
+
+.nav {
+  .nav-item {
+    padding-right: 30px;
+
+    .nav-link {
+      font-family: $roboto;
+      font-weight: 500;
+      font-size: 15px;
+      line-height: 16px;
+      text-transform: uppercase;
+      color: #fff;
+    }
+  }
+}

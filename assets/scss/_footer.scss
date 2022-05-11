@@ -1,0 +1,81 @@
+ .footer-area {
+     position: relative;
+     background-color: #0F1123;
+     color: #fff;
+
+     p {
+         width: 90%;
+         font-weight: 400;
+         font-size: 16px;
+         line-height: 24px;
+     }
+
+     .footer-features{
+         h5{
+             margin-left: 25px;
+             margin-bottom: 40px;
+            font-weight: 600;
+            font-size: 18px;
+            line-height: 27px;         }
+     }
+     ul{
+        li{
+list-style: none;
+        }
+        a{
+            color: #fff;
+            font-family: $roboto;
+            font-weight: 400;
+font-size: 16px;
+line-height: 40px;
+        }
+     }
+ }
+
+ .dropdown-menu{
+     background-color: transparent;
+     li{
+         a{
+             color: #fff;
+         }
+     }
+     
+ }
+
+ .footer-information{
+     
+    display: flex;
+    ul {
+        list-style: none;
+        display: flex;
+    }
+li{
+    li {
+        padding: 0px 25px;
+        padding-left: 0;
+    }
+    a{
+        color: #fff;
+        font-size: 14px;
+        float: right;
+        display: block;
+        padding: 0 20px;
+    }
+}
+ } 
+ 
+ .footer-copyright {
+    p {
+        margin-left: 130px;
+        color: #fff;
+        width: 100%;
+ }
+}
+
+.footer-shape{
+.l-shape{
+  margin-left: 0;
+}
+}
+
+ 
